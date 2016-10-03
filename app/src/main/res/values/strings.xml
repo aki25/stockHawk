@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Stock Hawk</string>
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="action_change_units" translatable="true">Change Units</string>
+    <string name="symbol_search" translatable="true">Symbol Search</string>
+    <string name="content_test" translatable="true">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="input_prefill" translatable="false"></string>
+    <string name="network_toast" translatable="true">Uh-oh! This app requires an internet connection</string>
+    <string name="title_activity_line_graph" translatable="false">Graph</string>
+    <string name="bid_info" translatable="true">Current Bid</string>
+    <string name="detail_error" translatable="true">Error retrieving data, please check the internet connection!</string>
+    <string name="scrub_help" translatable="true">Touch the graph to view value</string>
+    <string name="empty_widget" translatable="true">No data available.</string>
+    <string name="stock_already_saved" translatable="true">This stock is already saved!</string>
+    <string name="stock_not_found" translatable="true">Stock not found!</string>
+
+    <!--Descriptions for buttons-->
+    <string name="add_new_stock_description" translatable="true">Add new stock</string>
+</resources>
